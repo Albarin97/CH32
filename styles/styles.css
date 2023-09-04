@@ -1,0 +1,17 @@
+body{
+    background-color: #b27943;
+}
+
+h3{
+    color: #faf8bd;
+}
+
+h1{
+    color: white;
+}
+
+img{
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
